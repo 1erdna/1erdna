@@ -2,7 +2,9 @@
 
 **[Portfolio ↗](https://1erdna.github.io/Portfolio-Website/)**　·　**[Cube Lab demo ↗](https://1erdna.github.io/cubecam-connect/)**　·　**[Repositories ↗](https://github.com/1erdna?tab=repositories)**
 
-![Hello, I’m Andrei. I worked as a barista and bartender. Now I work on our resto bar’s database and build tools for speedcubing. Outside of code I also play table tennis and pickleball.](assets/editorial/about.svg)
+![Hello, I’m Andrei. I worked as a barista and bartender. Now I work on our resto bar’s database and build tools for speedcubing. I play varsity table tennis for Xavier University and umpired table tennis matches at the Xavier Cup Games.](assets/editorial/about.svg)
+
+Outside varsity training, I also enjoy pickleball and speedcubing.
 
 ![Selected work — Inside my projects](assets/editorial/work.svg)
 
