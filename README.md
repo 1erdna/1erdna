@@ -6,6 +6,17 @@
 
 **English proficiency** · IELTS Overall Band Score 7.0
 
+<details>
+<summary><strong>Training &amp; certificates of completion</strong></summary>
+
+| Provider | Completed training |
+| --- | --- |
+| MongoDB University | Six units covering inserting and finding documents, modifying query results, replacing and deleting documents, aggregation, indexes, and transactions. |
+| MSTCONNECT Educational Consultancy | Web Development Workshop 101 (10 hours), Python Programming 101 (4 hours), IT Management Fundamentals 101 (3 hours), and Strategic Project Management & Design Thinking 101 (3 hours). |
+| Sweet House Pastry School | Coffee and Desserts, July 2023. |
+
+</details>
+
 Outside varsity training, I also enjoy pickleball and speedcubing.
 
 ![Selected work — Inside my projects](assets/editorial/work.svg)
