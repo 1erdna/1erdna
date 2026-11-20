@@ -4,6 +4,8 @@
 
 ![Hello, I’m Andrei. I worked as a barista and bartender. Now I work on our resto bar’s database and build tools for speedcubing. I play varsity table tennis for Xavier University and umpired table tennis matches at the Xavier Cup Games.](assets/editorial/about.svg)
 
+**English proficiency** · IELTS Band 7.0
+
 Outside varsity training, I also enjoy pickleball and speedcubing.
 
 ![Selected work — Inside my projects](assets/editorial/work.svg)
