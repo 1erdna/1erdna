@@ -44,17 +44,6 @@ Open the UI preview from the project README. Browse a secondhand item, save it, 
 
 ![The tools I reach for. JavaScript and Python, HTML and CSS, MongoDB, MediaPipe and WebRTC, Cisco Packet Tracer, Git and GitHub.](assets/editorial/tools.svg)
 
-**A quick subnetting challenge from my networking practice**
-
-A café needs one IPv4 subnet for 30 hosts. What’s the smallest subnet that fits?
-
-<details>
-<summary><strong>Reveal the answer</strong></summary>
-
-**/27.** Five host bits give you 32 addresses. Set aside the network and broadcast addresses and you have exactly **30 usable addresses**.
-
-</details>
-
 [![A year of building. Snapshot of my GitHub calendar on November 20, 2026, showing 208 contributions.](assets/editorial/activity.svg)](https://github.com/1erdna?tab=overview#js-contribution-activity)
 
 [See current GitHub activity ↗](https://github.com/1erdna?tab=overview#js-contribution-activity)
