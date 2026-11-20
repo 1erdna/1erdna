@@ -1,33 +1,25 @@
-[![Andrei Jullian Nacaya · Web and mobile developer · Cagayan de Oro](./assets/plum-masthead.svg)](https://1erdna.github.io/Portfolio-Website/)
+[![Andrei Jullian Nacaya, web and mobile developer from Cagayan de Oro](assets/editorial/cover.svg)](https://1erdna.github.io/Portfolio-Website/)
 
-**[Visit my portfolio ↗](https://1erdna.github.io/Portfolio-Website/)**　·　[Try Cube Lab ↗](https://1erdna.github.io/cubecam-connect/)　·　[Browse my repositories ↗](https://github.com/1erdna?tab=repositories)
+**[Portfolio ↗](https://1erdna.github.io/Portfolio-Website/)**　·　**[Cube Lab demo ↗](https://1erdna.github.io/cubecam-connect/)**　·　**[Repositories ↗](https://github.com/1erdna?tab=repositories)**
 
-## Hello, I’m Andrei.
+![Hello, I’m Andrei. I worked as a barista and bartender. Now I work on our resto bar’s database and build tools for speedcubing. Outside of code I also play table tennis and pickleball.](assets/editorial/about.svg)
 
-I was a barista and bartender before I started building web and mobile apps. I still look at an ordering screen the way I’d look at the counter on a busy night. *If three orders are waiting, what do I need to see first?*
+![Selected work — Inside my projects](assets/editorial/work.svg)
 
-## Selected projects
+[![CAPO. I’m working on the MongoDB database for our resto bar’s ordering system.](assets/editorial/capo.svg)](https://github.com/1erdna/CAPO)
 
-[![CAPO · Restaurant ordering · MongoDB](./assets/plum-capo.svg)](https://github.com/1erdna/CAPO)
+[Explore the CAPO repository ↗](https://github.com/1erdna/CAPO)
 
-**[CAPO ↗](https://github.com/1erdna/CAPO)** is the ordering system we’re building for our resto bar. My part is the MongoDB database behind it.
+[![1ERDNA Cube Lab. A camera-assisted speedcubing timer with phone pairing, solve averages and replay.](assets/editorial/cube.svg)](https://1erdna.github.io/cubecam-connect/)
 
-[![1ERDNA Cube Lab · Camera-assisted speedcubing timer](./assets/plum-cube-lab.svg)](https://1erdna.github.io/cubecam-connect/)
+[Try the timer ↗](https://1erdna.github.io/cubecam-connect/)　·　[View source ↗](https://github.com/1erdna/cubecam-connect)
 
-I wanted to finish a solve and stop the clock in one motion. Cube Lab uses a camera to watch my hands, keeps my average of five, and lets me replay a solve. **[Try the timer ↗](https://1erdna.github.io/cubecam-connect/)** · [Source code](https://github.com/1erdna/cubecam-connect)
+[![XU ThriftExchange. Denz, Dann, and I built a student marketplace prototype for browsing, saving and reserving secondhand items with demo data.](assets/editorial/thrift.svg)](https://github.com/1erdna/XUThriftExchange)
 
-[![XU ThriftExchange · Student marketplace prototype](./assets/plum-thrift.svg)](https://github.com/1erdna/XUThriftExchange)
+[Explore the team project ↗](https://github.com/1erdna/XUThriftExchange)
 
-Denz, Dann, and I built **[XU ThriftExchange ↗](https://github.com/1erdna/XUThriftExchange)** for our mobile development class. You can browse secondhand finds, save a listing, and try the reservation flow with demo data.
+![The tools I reach for. JavaScript and Python, HTML and CSS, MongoDB, MediaPipe and WebRTC, Cisco Packet Tracer, Git and GitHub.](assets/editorial/tools.svg)
 
-## The tools I reach for
+[![A year of building. Snapshot of my GitHub calendar on November 20, 2026, showing 208 contributions.](assets/editorial/activity.svg)](https://github.com/1erdna?tab=overview#js-contribution-activity)
 
-| At the keyboard | What I use it for |
-| --- | --- |
-| **JavaScript, HTML & CSS** | Building browser interfaces and bringing Cube Lab’s timer to life. |
-| **MongoDB** | Modeling data for CAPO and practicing queries on location data. |
-| **Cisco Packet Tracer** | Testing addressing plans after working out the subnets on paper. |
-
-## Off the clock
-
-In table tennis, I stay close to the table and twiddle my racket for a chop-block. On the pickleball court, I still slice my returns. The shot I’m working on now is the backhand drive.
+[See current GitHub activity ↗](https://github.com/1erdna?tab=overview#js-contribution-activity)
