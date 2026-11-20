@@ -8,17 +8,52 @@
 
 [![CAPO. I’m working on the MongoDB database for our resto bar’s ordering system.](assets/editorial/capo.svg)](https://github.com/1erdna/CAPO)
 
+
+<details>
+<summary><strong>What does a busy shift have to do with database design?</strong></summary>
+
+Behind the bar, I want to know what was ordered and what still needs preparing. Working on CAPO’s MongoDB database makes me think through those same questions one order at a time.
+
+</details>
+
 [Explore the CAPO repository ↗](https://github.com/1erdna/CAPO)
 
 [![1ERDNA Cube Lab. A camera-assisted speedcubing timer with phone pairing, solve averages and replay.](assets/editorial/cube.svg)](https://1erdna.github.io/cubecam-connect/)
+
+
+<details>
+<summary><strong>How do I try a hands-free solve?</strong></summary>
+
+Open Cube Lab, choose the laptop camera, and rest both hands in the marked zones. Lift them to start timing and return them to stop. You can also try the timer with the spacebar.
+
+</details>
 
 [Try the timer ↗](https://1erdna.github.io/cubecam-connect/)　·　[View source ↗](https://github.com/1erdna/cubecam-connect)
 
 [![XU ThriftExchange. Denz, Dann, and I built a student marketplace prototype for browsing, saving and reserving secondhand items with demo data.](assets/editorial/thrift.svg)](https://github.com/1erdna/XUThriftExchange)
 
+
+<details>
+<summary><strong>Try a buyer’s walkthrough</strong></summary>
+
+Open the UI preview from the project README. Browse a secondhand item, save it, then try reserving it. The prototype uses demo data, so you can explore the flow without an account.
+
+</details>
+
 [Explore the team project ↗](https://github.com/1erdna/XUThriftExchange)
 
 ![The tools I reach for. JavaScript and Python, HTML and CSS, MongoDB, MediaPipe and WebRTC, Cisco Packet Tracer, Git and GitHub.](assets/editorial/tools.svg)
+
+**A quick subnetting challenge from my networking practice**
+
+A café needs one IPv4 subnet for 30 hosts. What’s the smallest subnet that fits?
+
+<details>
+<summary><strong>Reveal the answer</strong></summary>
+
+**/27.** Five host bits give you 32 addresses. Set aside the network and broadcast addresses and you have exactly **30 usable addresses**.
+
+</details>
 
 [![A year of building. Snapshot of my GitHub calendar on November 20, 2026, showing 208 contributions.](assets/editorial/activity.svg)](https://github.com/1erdna?tab=overview#js-contribution-activity)
 
