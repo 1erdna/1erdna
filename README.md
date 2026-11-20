@@ -1,24 +1,33 @@
-![Andrei Jullian Nacaya · Web and mobile development · Cagayan de Oro](./assets/profile-banner.svg)
+[![Andrei Jullian Nacaya · Web and mobile developer · Cagayan de Oro](./assets/plum-masthead.svg)](https://1erdna.github.io/Portfolio-Website/)
 
-Hey, I’m **Andrei**. I was a barista and bartender before I got into web and mobile development. Working behind a busy counter still shapes how I think about software. When I look at an ordering screen, my first question is usually, *could I use this with three more orders waiting?*
+**[Visit my portfolio ↗](https://1erdna.github.io/Portfolio-Website/)**　·　[Try Cube Lab ↗](https://1erdna.github.io/cubecam-connect/)　·　[Browse my repositories ↗](https://github.com/1erdna?tab=repositories)
 
-[My portfolio](https://github.com/1erdna/Portfolio-Website) · [Try my speedcubing timer](https://1erdna.github.io/cubecam-connect/)
+## Hello, I’m Andrei.
 
-## What I’m building
+I was a barista and bartender before I started building web and mobile apps. I still look at an ordering screen the way I’d look at the counter on a busy night. *If three orders are waiting, what do I need to see first?*
 
-**[CAPO](https://github.com/1erdna/CAPO) · Restaurant ordering and management**  
-This one is close to home. CAPO is our resto bar, and I’m working on the MongoDB side of our ordering system. It’s where my experience behind the counter meets what I’m learning about databases.
+## Selected projects
 
-**[1ERDNA Cube Lab](https://github.com/1erdna/cubecam-connect) · A timer for my speedcubing sessions**  
-I wanted to put the cube down at the end of a solve and have the timer stop with me. Cube Lab uses a camera to detect my hands. I can check my average of five, replay a solve, or pair my phone as the sensor. [Give it a try →](https://1erdna.github.io/cubecam-connect/)
+[![CAPO · Restaurant ordering · MongoDB](./assets/plum-capo.svg)](https://github.com/1erdna/CAPO)
 
-**[XU ThriftExchange](https://github.com/1erdna/XUThriftExchange) · A student marketplace prototype**  
-Denz, Dann, and I built the mobile interface for a class project. You can browse secondhand items, save a listing, and try the reservation flow with demo data.
+**[CAPO ↗](https://github.com/1erdna/CAPO)** is the ordering system we’re building for our resto bar. My part is the MongoDB database behind it.
 
-## On my desk
+[![1ERDNA Cube Lab · Camera-assisted speedcubing timer](./assets/plum-cube-lab.svg)](https://1erdna.github.io/cubecam-connect/)
 
-I use **JavaScript, HTML, and CSS** for browser projects. Lately I’ve been working with **MongoDB** for CAPO and practicing **subnetting and VLSM in Packet Tracer**. Give me a big host requirement and I’ll probably reach for pen and paper first.
+I wanted to finish a solve and stop the clock in one motion. Cube Lab uses a camera to watch my hands, keeps my average of five, and lets me replay a solve. **[Try the timer ↗](https://1erdna.github.io/cubecam-connect/)** · [Source code](https://github.com/1erdna/cubecam-connect)
 
-![Off the clock · Speedcubing, table tennis, and pickleball](./assets/off-the-clock.svg)
+[![XU ThriftExchange · Student marketplace prototype](./assets/plum-thrift.svg)](https://github.com/1erdna/XUThriftExchange)
 
-In table tennis I play close to the table, twiddle my racket, and look for a chop-block. That habit follows me onto the pickleball court. I still like to slice the return, and right now I’m working on my backhand drive.
+Denz, Dann, and I built **[XU ThriftExchange ↗](https://github.com/1erdna/XUThriftExchange)** for our mobile development class. You can browse secondhand finds, save a listing, and try the reservation flow with demo data.
+
+## The tools I reach for
+
+| At the keyboard | What I use it for |
+| --- | --- |
+| **JavaScript, HTML & CSS** | Building browser interfaces and bringing Cube Lab’s timer to life. |
+| **MongoDB** | Modeling data for CAPO and practicing queries on location data. |
+| **Cisco Packet Tracer** | Testing addressing plans after working out the subnets on paper. |
+
+## Off the clock
+
+In table tennis, I stay close to the table and twiddle my racket for a chop-block. On the pickleball court, I still slice my returns. The shot I’m working on now is the backhand drive.
